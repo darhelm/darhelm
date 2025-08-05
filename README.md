@@ -41,7 +41,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=darhelm&show_icons=true&theme=radical" alt="darhelm GitHub stats"/>
@@ -51,7 +51,7 @@
 
 ---
 
-### 🧠 Interests & Focus
+### Interests & Focus
 - Building scalable backend systems
 - Optimizing performance for high-volume crypto exchange platforms
 - Real-time data pipelines and monitoring
@@ -65,6 +65,6 @@
 
 ---
 
-### 🔥 Contributions
+### Contributions
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=darhelm&theme=radical&hide_border=true)
