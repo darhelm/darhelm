@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm darhelm</h1>
 
 <p align="center">
-  🧠 Backend Developer at <a href="https://eyeon.team">EyeOn</a> & <a href="https://bitpin.ir">Bitpin Crypto Exchange</a>  
+  Backend Developer at <a href="https://eyeon.team">EyeOn</a> & <a href="https://bitpin.ir">Bitpin Crypto Exchange</a>  
   <br>
   📍 Tehran, Iran
 </p>
@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/AdminJS-222?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-CA2C92?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
