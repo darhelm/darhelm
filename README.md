@@ -8,10 +8,10 @@
 
 ---
 
-### 💼 Experience
-- 🔧 Backend Developer at [EyeOn](https://eyeon.team) (Jul 2024 – Present)
-- 🔧 Backend Developer at [BitPin](https://bitpin.ir) (Jan 2025 – Present)
-- 💱 Specializing in **Cryptocurrency Exchange Platforms** & **Market Making Systems**
+### Experience
+-  Backend Developer at [EyeOn](https://eyeon.team) (Jul 2024 – Present)
+-  Backend Developer at [BitPin](https://bitpin.ir) (Jan 2025 – Present)
+-  Specializing in **Cryptocurrency Exchange Platforms** & **Market Making Systems**
 
 ---
 
@@ -58,8 +58,9 @@
 ---
 
 ### 📬 Connect With Me
-- 🧑‍💻 Telegram: [telegram](https://t.me/amradhelm)
-- 🧑‍💼 GitHub: [darhelm](https://github.com/darhelm)
+-  Linkedin: [Linkedin](https://www.linkedin.com/in/mehrad-hadizadeh-50456893/)
+-  Telegram: [telegram](https://t.me/amradhelm)
+-  GitHub: [darhelm](https://github.com/darhelm)
 
 ---
 
