@@ -1,9 +1,5 @@
-<h1 align="center">Mehrad Hadizadeh (darhelm)</h1>
-
 <p align="center">
   Backend Engineer • Market Making Systems • Crypto Exchange Infrastructure  
-  <br>
-  Tehran, Iran
 </p>
 
 ---
@@ -12,16 +8,6 @@
 
 I build high-performance backend systems for cryptocurrency exchanges and market-making infrastructure.  
 My work focuses on distributed architecture, real-time data processing, and latency-critical services operating at scale.
-
----
-
-## Experience
-
-- **Backend Engineer — EyeOn** (Jul 2024 – Present)  
-  Developing infrastructure for multi-exchange HFT, market making, and arbitrage systems.
-
-- **Backend Engineer — BitPin Cryptocurrency Exchange** (Jan 2025 – Present)  
-  Working on exchange backend modules, market data systems, and platform services.
 
 ---
 
