@@ -49,9 +49,3 @@
   <img height="165" src="https://streak-stats.demolab.com?user=darhelm&theme=dark&hide_border=true" />
 </p>
 
----
-
-## Contact
-
-- **LinkedIn:** https://www.linkedin.com/in/mehrad-hadizadeh-50456893/  
-- **Telegram:** https://t.me/amradhelm
